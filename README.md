@@ -11,3 +11,5 @@ ZCZC W04 Telah mencoba demo Week04</br>
 </br>
 ZCZC W05 Telah mencoba demo Week05</br>
 </br>
+ZCZC W06 Telah mencoba demo Week06</br>
+</br>
